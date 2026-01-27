@@ -4,9 +4,7 @@ title: "Projects"
 permalink: /Projects/
 author_profile: true
 ---
-
 {% include base_path %}
-
 ---
 
 ### 🎯 Customer Segmentation & Retention Analysis
