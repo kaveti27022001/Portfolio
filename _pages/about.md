@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<div style="text-align:justify">
 I am a Data Scientist and Machine Learning Engineer with 2+ years of experience designing, building, and deploying end-to-end machine learning solutions that drive business outcomes. I recently completed my Master’s in Data Science at the University of North Texas (GPA: 4.0), with a strong focus on applied machine learning and data-driven systems. I also served as a Teaching & Research Assistant, where I mentor 100+ students in applied data analysis, SQL, and data visualization.
 
 My expertise includes machine learning, statistical modeling, A/B testing, customer analytics, time-series forecasting, and Generative AI. I have hands-on experience developing production-grade ML pipelines—from data ingestion and feature engineering to model training, evaluation, deployment, and monitoring—using Python, SQL, XGBoost, TensorFlow, Spark, FastAPI, Docker, and AWS.
@@ -24,6 +26,7 @@ Across projects and internships, I consistently focus on model performance, scal
 
 I am particularly interested in roles involving applied machine learning, ML engineering, experimentation, personalization, and AI-driven decision systems, where data science directly impacts product and business strategy.
 
-🏆 HackUNT Winner – Fraud Detection Machine Learning Model
-📈 Strong background in translating business problems into ML solutions
+🏆 HackUNT Winner – Fraud Detection Machine Learning Model<br>
+📈 Strong background in translating business problems into ML solutions<br>
 ☁️ Experienced in deploying scalable ML systems on AWS
+</div>
