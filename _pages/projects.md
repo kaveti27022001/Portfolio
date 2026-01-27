@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Featured Projects
-
 ---
 
 ### 🎯 Customer Segmentation & Retention Analysis

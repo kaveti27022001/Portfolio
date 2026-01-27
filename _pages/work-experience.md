@@ -6,9 +6,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-
-## Professional Experience
-
 ---
 
 ### 💼 Machine Learning Engineer Intern
