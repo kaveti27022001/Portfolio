@@ -1,5 +1,4 @@
----
-permalink: /
+<img src="{{ site.baseurl }}/images/Professional_img.jpg" alt="Chinmai Kaveti" style="float: right; width: 300px; margin-left: 20px; margin-bottom: 10px; border-radius: 8px;">
 title: "👋 Hello, I'm Kaveti"
 author_profile: true
 redirect_from: 
