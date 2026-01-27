@@ -1,10 +1,13 @@
-<img src="{{ site.baseurl }}/images/Professional_img.jpg" alt="Chinmai Kaveti" style="float: right; width: 300px; margin-left: 20px; margin-bottom: 10px; border-radius: 8px;">
+
+---
 title: "👋 Hello, I'm Kaveti"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<img src="{{ site.baseurl }}/images/Professional_img.jpg" alt="Chinmai Kaveti" style="float: right; width: 300px; margin-left: 20px; margin-bottom: 10px; border-radius: 8px;">
 
 <div style="text-align:justify">
 I am a Data Scientist and Machine Learning Engineer with 2+ years of experience designing, building, and deploying end-to-end machine learning solutions that drive business outcomes. I recently completed my Master’s in Data Science at the University of North Texas (GPA: 4.0), with a strong focus on applied machine learning and data-driven systems. I also served as a Teaching & Research Assistant, where I mentor 100+ students in applied data analysis, SQL, and data visualization.
